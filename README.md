@@ -1,30 +1,55 @@
+<h1 align="center">Hi 👋 I'm Harun</h1>
 <p align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Harun" width="100%">
+  <em>Cybersecurity student · Red Team enthusiast · Arch Linux tinkerer</em>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  🇺🇿 Engineering student from Uzbekistan &nbsp;•&nbsp; Linux enthusiast &nbsp;•&nbsp; Cybersecurity learner &nbsp;•&nbsp; Hardware lover
 </p>
 
-<p align="center">
-  <img src="assets/about.svg" alt="About me" width="100%">
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <img src="assets/stack.svg" alt="Tech stack" width="100%">
-</p>
+- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff
+- 🤖 I'm hardware and software enthusiast
+- 🐧 ARCH Linux is my favorite OS
+- 🔒 Learning Cybersecurity & Penetration testing & Engineering
+- 🤖 Interested in Robotics & Embedded Systems
+- 🛠️ Passionate about understanding how systems work—from hardware to operating systems
+- 🌐 Cisco Networking
+- 📚 Goal: Study abroad and become an Cybersecurity Specialist 
 
-## 🤝 Open Source
+---
+## 🤝 Open Source Contributions
 
-One of my first contributions was a bug fix in **illogical-impulse**, the popular Hyprland dotfiles project.
+One of my first open-source contributions was fixing a bug in **illogical-impulse** — the popular Hyprland dotfiles project.
 
-- ✅ [end-4/dots-hyprland#3500](https://github.com/end-4/dots-hyprland/pull/3500)
+- ✅ Bug fix: https://github.com/end-4/dots-hyprland/pull/3500
 
-More to come as I learn.
+I plan to continue contributing to open-source projects as I learn.
 
 ---
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=D0BCFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%99%82" alt="Typing SVG"></a>
-</p>
+## Languages I Speak
+
+🇺🇿 Uzbek  ·  🇬🇧 English  ·  🇷🇺 Russian
+  
+### Programing languages
+- Python
+- C (learning)
+
+---
+  
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+  
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+%F0%9F%99%82)](https://git.io/typing-svg)

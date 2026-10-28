@@ -1,55 +1,21 @@
-<h1 align="center">Hi 👋 I'm Harun</h1>
-<p align="center">
-  <em>Cybersecurity student · Red Team enthusiast · Arch Linux tinkerer</em>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-</p>
+<div align="center">
 
-<p align="center">
-  🇺🇿 Engineering student from Uzbekistan &nbsp;•&nbsp; Linux enthusiast &nbsp;•&nbsp; Cybersecurity learner &nbsp;•&nbsp; Hardware lover
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m harun-404"></picture>
 
-## 🚀 About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff
-- 🤖 I'm hardware and software enthusiast
-- 🐧 ARCH Linux is my favorite OS
-- 🔒 Learning Cybersecurity & Penetration testing & Engineering
-- 🤖 Interested in Robotics & Embedded Systems
-- 🛠️ Passionate about understanding how systems work—from hardware to operating systems
-- 🌐 Cisco Networking
-- 📚 Goal: Study abroad and become an Cybersecurity Specialist 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
----
-## 🤝 Open Source Contributions
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-One of my first open-source contributions was fixing a bug in **illogical-impulse** — the popular Hyprland dotfiles project.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-- ✅ Bug fix: https://github.com/end-4/dots-hyprland/pull/3500
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-I plan to continue contributing to open-source projects as I learn.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
----
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/harun-404?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-## Languages I Speak
+<a href="https://metawka.github.io/expressive-profile/?from=harun-404"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-🇺🇿 Uzbek  ·  🇬🇧 English  ·  🇷🇺 Russian
-  
-### Programing languages
-- Python
-- C (learning)
-
----
-  
-### 🌐 Networking
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-  
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+%F0%9F%99%82)](https://git.io/typing-svg)
+</div>
